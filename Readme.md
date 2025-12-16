@@ -34,6 +34,3 @@ Risk summary sheet
 
 This project highlights major operational risks affecting Amazon’s sales pipeline and provides clear metrics to estimate revenue loss, monitor delivery issues, and identify improvement areas.
 
-
-
-If you want, I can also make a **super-short version** for GitHub or a **LinkedIn caption**.
